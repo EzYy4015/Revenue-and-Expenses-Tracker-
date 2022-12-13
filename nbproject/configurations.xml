@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="97">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>Category.h</itemPath>
+      <itemPath>ExpensesTracker.h</itemPath>
+      <itemPath>IncomeTracker.h</itemPath>
+      <itemPath>Profile.h</itemPath>
+      <itemPath>ProfileManagement.h</itemPath>
+      <itemPath>RevenueCategory.h</itemPath>
+      <itemPath>SpendingCategory.h</itemPath>
+      <itemPath>Tracker.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>Category.cpp</itemPath>
+      <itemPath>ExpensesTracker.cpp</itemPath>
+      <itemPath>IncomeTracker.cpp</itemPath>
+      <itemPath>Profile.cpp</itemPath>
+      <itemPath>ProfileManagement.cpp</itemPath>
+      <itemPath>RevenueCategory.cpp</itemPath>
+      <itemPath>SpendingCategory.cpp</itemPath>
+      <itemPath>Tracker.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="Category.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Category.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ExpensesTracker.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ExpensesTracker.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="IncomeTracker.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="IncomeTracker.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Profile.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Profile.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ProfileManagement.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ProfileManagement.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="RevenueCategory.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="RevenueCategory.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SpendingCategory.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SpendingCategory.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Tracker.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Tracker.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="Category.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Category.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ExpensesTracker.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ExpensesTracker.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="IncomeTracker.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="IncomeTracker.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Profile.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Profile.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ProfileManagement.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ProfileManagement.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="RevenueCategory.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="RevenueCategory.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SpendingCategory.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SpendingCategory.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Tracker.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Tracker.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
